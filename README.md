@@ -1,19 +1,29 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Igor Tudisco 👨‍💻</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Igor Tudisco 👨‍💻</h1>
 <h3 align="center">I'm learning about developing software</h3>
 
 
-- 🔭 I'm currently looking for a job.
-- 🌱 I’m currently learning HTML, CSS, JAVA, JAVASCRIPT, NODE, SQL, C# and more.
+- 🌱 I’m currently learning HTML, CSS, JAVA, JAVASCRIPT, NODE, Spring, SQL, C# and more.
 - 🤔 I’m looking for help with my studies.
-- 📫 How to reach me: my phone number 55 (11) 96502-0137, my e-mail igortudisco@hotmail.com and my linkedin is https://www.linkedin.com/in/igor-tudisco-82935770/
 - :briefcase: I'm looking for a new job.
-<br>
+- 📫 How to reach me...
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igortudisco&layout=compact&show_icons=true&theme=radical" alt="igortudisco"/> 
-</p>
 
-<!-- <p align="left">
+  <div>
+    <a href = "igorandradetudisco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &ensp;
+    <a href = "igortudisco@hotmail.com"><img src="https://i.pinimg.com/originals/6e/50/1f/6e501f5add4aeff56d78208e7f0d9354.png" target="_blank" width="28" ></a> &ensp;
+    <a href="https://www.linkedin.com/in/igor-tudisco-82935770/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" sizes="0.1" target="_blank"></a>
+   <br>
+    <br>
+
+   <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igortudisco&layout=compact&show_icons=true&theme=radical" alt="igortudisco"/> 
+  </p>
+  <div>
+
+
+<!-- 
+- 🔭 I'm currently looking for a job.
+<p align="left">
 -- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> --
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
