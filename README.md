@@ -26,7 +26,7 @@
     <br>
     <a href = "mailto:igorandradetudisco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &ensp;
     <a href = "mailto:igortudisco@hotmail.com"><img src="https://i.pinimg.com/originals/6e/50/1f/6e501f5add4aeff56d78208e7f0d9354.png" target="_blank" width="28" ></a> &ensp;
-    <a href="https://www.linkedin.com/in/igor-tudisco-82935770/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" sizes="0.1" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/igortudisco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" sizes="0.1" target="_blank"></a>
   </div>
 </body>
 
