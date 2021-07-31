@@ -4,8 +4,7 @@
 
 
 <!-- - 🤔 I’m looking for help with my studies. -->
-- :briefcase: I'm looking for a new job.
-##
+
  - 🌱 I'm currently learning about...
 <div style="display: inline_block">
   <img align="center" alt="logo-Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">&nbsp
@@ -35,7 +34,7 @@
 </body>
 
 ##
-
+- :briefcase: I'm looking for a new job.
 - 📫 How to reach me...
 
 <body>
