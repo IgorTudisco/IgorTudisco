@@ -7,6 +7,7 @@
 
  - 🌱 I'm currently learning about...
 <div style="display: inline_block">
+    <img align="center" alt="logo-Ts" height="30" width="30" src="https://i.imgur.com/23o7rZA.png">&nbsp
   <img align="center" alt="logo-Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">&nbsp
   <img align="center" alt="logo-Mysql" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">&nbsp
   <img align="center" alt="logo-Spring" height="30" width="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">&nbsp
